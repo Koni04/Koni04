@@ -1,3 +1,24 @@
+## 🙆‍♂️ User Information:
+<h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
+<h3 align="center">A passionate Full stack developer and Ethical Hacking</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koni04&label=Profile%20views&color=0e75b6&style=flat" alt="koni04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koni04" alt="koni04" /></a> </p>
+
+- 🔭 I’m currently working on [Portfolio](https://koni04.github.io/Argie/)
+
+- 👯 I’m looking to collaborate on [Exposition Group](https://expocollaboration.github.io/ExpoWeb/)
+
+- 👨‍💻 All of my projects are available at [https://koni04.github.io/Argie/](https://koni04.github.io/Argie/)
+
+- 💬 Ask me about **How code works?**
+
+- 📫 How to reach me **delgadoargie04@gmail.com**
+
+- 📄 Know about my experiences [https://resume.io/r/1z0MQAJCl](https://resume.io/r/1z0MQAJCl)
+
+- ⚡ Fun fact **Logically Mindset**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/argiedelgado) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/argie.delgado.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/argie-delgado-a593732a1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23392064) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC45yDVvqytKh3UQTqt0M60w) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Koni04) 
