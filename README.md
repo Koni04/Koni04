@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
-<h3 align="center">A passionate Full stack developer and Ethical Hacking</h3>
+<h3 align="center">A dedicated Full-Stack Developer and Ethical Hacker</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://koni04.github.io/Argie/)
 
